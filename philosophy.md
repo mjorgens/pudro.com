@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Philosophy
-last_modified_at: 2007-08-24
+last_modified_at: 2019-02-20
 ---
-In my years of "surfing" the Web, I've seen many "bad" Web sites. You know the ones that take forever to download, are hard to navigate, and look like an 8-year-old put it together. So I decided to do something about it, and form my own design group.
+In my years of "surfing" the Web, I've seen many "bad" websites. You know the ones that take forever to download, are hard to navigate, and look like an 8-year-old put it together. So I decided to do something about it, and form my own design group.
 
 ### Distinctive, Intuitive, and Imaginative Designs.
 
-I build custom Web sites for each client that reflect the needs of their customers. Each site is distinctive, imaginative, and intuitive. You can rest assured that I will design something for you that will set you apart. My designs simplify even the most complex ideas, services, or products in ways that will inspire a positive response from your current customers and potential customers.
+I build custom websites for each client that reflect the needs of their customers. Each site is distinctive, imaginative, and intuitive. You can rest assured that I will design something for you that will set you apart. My designs simplify even the most complex ideas, services, or products in ways that will inspire a positive response from your current customers and potential customers.
 
 ### Big Shop Look. Small Shop Prices.
 

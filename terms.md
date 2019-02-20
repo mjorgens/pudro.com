@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Terms of Use
-last_modified_at: 2007-08-24
+last_modified_at: 2019-02-20
 ---
 The information contained and accessed on pudro.com (the "Site") is provided for general guidance and is intended to offer the user general information of interest. The application and impact of laws can vary widely based on the specific facts involved. Given the changing nature of laws, rules and regulations, and the inherent hazards of electronic communication, there may be delays, omissions or inaccuracies in information contained in this Site. Accordingly, The information on this Site is provided with the understanding that the authors and publishers are not herein engaged in rendering professional advice or services. As such, it should not be used as a substitute for consultation with professionals. Before making any decision or taking any action, you should consult with Pudro Design.
 
 While we have made every attempt to ensure that the information contained in this Site has been obtained from reliable sources, Pudro Design is not responsible for any errors or omissions, or for the results obtained from the use of this information. All information in this Site is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied, including, but not limited to warranties of performance, merchantability and fitness for a particular purpose. In no event will Pudro Design, its related partnerships or corporations, or the partners, agents or employees thereof be liable to you or anyone else for any decision made or action taken in reliance on the information in this Site or for any consequential, special or similar damages, even if advised of the possibility of such damages.
 
-Certain links in this Site connect to other Web sites maintained by third parties over whom Pudro Design has no control. Pudro Design makes no representations as to the accuracy or any other aspect of information contained in other Web sites.
+Certain links in this Site connect to other websites maintained by third parties over whom Pudro Design has no control. Pudro Design makes no representations as to the accuracy or any other aspect of information contained in other websites.

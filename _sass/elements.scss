@@ -1,0 +1,75 @@
+// Tags
+body {
+  font-family: Arial, Helvetica, Verdana, sans-serif;
+  color: $text-color;
+  background-color: $bg;
+  margin-bottom: 0.5rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+a {
+  color: $text-color;
+  &:visited {
+    color: $text-visited-color;
+  }
+}
+
+h2 {
+  color: $brand-color;
+  font-size: 1.3em;
+  margin: 0;
+}
+
+h3 {
+  font-size: 1em;
+}
+
+nav {
+  background-color: $nav-bg;
+  font-size: 1.1em;
+  border: 1px solid $border-color;
+
+  ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+
+    li {
+      float: none;
+      border-bottom: 1px solid $border-color;
+
+      &:last-child {
+        border-bottom: none;
+      }
+
+      a {
+        display: block;
+        line-height: $cap-height;
+        text-align: center;
+        padding-right: 0.5rem;
+        padding-left: 0.5rem;
+        color: $nav-text-color;
+        text-decoration: none;
+
+        &:visited {
+          color: $nav-text-color;
+        }
+
+        &:hover {
+          background-color: $nav-hover-bg;
+          color: $nav-text-hover;
+        }
+      }
+    }
+  }
+}
+
+section {
+  font-size: 1em;
+  padding: 0.5rem;
+  margin: 0;
+  border-right: 1px solid $border-color;
+  border-left: 1px solid $border-color;
+}

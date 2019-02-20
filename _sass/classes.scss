@@ -1,0 +1,51 @@
+// Classes
+.container {
+  max-width: 95%;
+  margin: auto;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  color: $text-color;
+  font-size: 2em;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-left: $cap-height;
+  font-weight: bold;
+
+  img {
+    margin-right: 0.5rem;
+  }
+}
+
+.top {
+  background-color: $brand-color;
+  height: $cap-height;
+  border-radius: $cap-height $cap-height 0 0;
+  border: 1px solid $border-color;
+  border-bottom: none;
+}
+
+.bottom1 {
+  background-color: $nav-bg;
+  height: $cap-height;
+  border: 1px solid $border-color;
+}
+
+.bottom2 {
+  background-color: $brand-color;
+  height: $cap-height;
+  border-radius: 0 0 $cap-height $cap-height;
+  border: 1px solid $border-color;
+  border-top: none;
+}
+
+.copyright {
+  font-size: 0.9em;
+  text-align: right;
+  margin-right: $cap-height;
+  div {
+    float: none;
+  }
+}

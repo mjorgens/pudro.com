@@ -1,0 +1,28 @@
+// Media break points
+@media only screen and (min-width: 600px) {
+  nav {
+    ul {
+      li {
+        float: left;
+        border-right: 1px solid $border-color;
+        border-bottom: none;
+      }
+    }
+  }
+
+  .container {
+    max-width: 75%;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .container {
+    max-width: 55%;
+  }
+
+  .copyright {
+    div {
+      display: inline;
+    }
+  }
+}

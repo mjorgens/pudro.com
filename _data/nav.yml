@@ -1,0 +1,10 @@
+nav:
+
+- title: Home
+  url: index.html
+- title: Philosophy
+  url: philosophy.html
+- title: Services
+  url: services.html
+- title: Contact Me
+  url: contact_me.html

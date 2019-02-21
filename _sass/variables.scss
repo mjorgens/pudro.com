@@ -4,6 +4,9 @@ $brand-color: #ff9900;
 $text-color: #000000;
 $text-visited-color: #808080;
 $border-color: #000000;
+$border-size: 1px;
+$border-style: solid;
+$border: $border-size $border-style $border-color;
 
 // Nav variables
 $nav-bg: #999999;

@@ -10,6 +10,7 @@ body {
 
 a {
   color: $text-color;
+  
   &:visited {
     color: $text-visited-color;
   }
@@ -28,7 +29,7 @@ h3 {
 nav {
   background-color: $nav-bg;
   font-size: 1.1em;
-  border: 1px solid $border-color;
+  border: $border;
 
   ul {
     list-style: none;
@@ -38,7 +39,7 @@ nav {
 
     li {
       float: none;
-      border-bottom: 1px solid $border-color;
+      border-bottom: $border;
 
       &:last-child {
         border-bottom: none;
@@ -70,6 +71,6 @@ section {
   font-size: 1em;
   padding: 0.5rem;
   margin: 0;
-  border-right: 1px solid $border-color;
-  border-left: 1px solid $border-color;
+  border-right: $border;
+  border-left: $border;
 }

@@ -4,7 +4,7 @@
     ul {
       li {
         float: left;
-        border-right: 1px solid $border-color;
+        border-right: $border;
         border-bottom: none;
       }
     }

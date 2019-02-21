@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Development Process
-last_modified_at: 2007-08-24
+last_modified_at: 2019-02-20
 ---
 ### First Contact
 
@@ -21,7 +21,7 @@ This is where the rubber hits the road. I develop the look and feel of your site
 
 ### Content Optimization
 
-I prefer you to provide the content of the site. If there is anything that needs to be edited, I can edit it and make suggestions on how to optimize the content. On the Web - less is more, fresh is better, and be interesting. If you need help writing content I can offer some assistance.
+I prefer you to provide the content of the site. If there is anything that needs to be edited, I can edit it and make suggestions on how to optimize the content. On the web - less is more, fresh is better, and be interesting. If you need help writing content I can offer some assistance.
 
 ### Test, Test, Retest
 

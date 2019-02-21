@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-last_modified_at: 2007-08-24
+last_modified_at: 2019-02-20
 ---
 Pudro Design takes the privacy of its users seriously. We are committed to safeguarding the privacy of our users and clients in accordance with worldwide practices for customer privacy and data protection. Pudro Design will not release your personal data to any third parties without your consent or as required by law.
 
@@ -29,7 +29,7 @@ You may receive periodic e-mail newsletters from us. These newsletters contain i
 
 ### Internet-based transfers
 
-Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing the pudro.com site and communicating electronically with us you acknowledge and agree to our processing of personal data in this way.
+Given that the internet is a global environment, using the internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing the pudro.com site and communicating electronically with us you acknowledge and agree to our processing of personal data in this way.
 
 The Privacy Policy Statement does not apply to Third Party Sites.
 

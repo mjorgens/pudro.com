@@ -3,7 +3,7 @@ layout: page
 title: Philosophy
 last_modified_at: 2019-02-20
 ---
-In my years of "surfing" the Web, I've seen many "bad" websites. You know the ones that take forever to download, are hard to navigate, and look like an 8-year-old put it together. So I decided to do something about it, and form my own design group.
+In my years of "surfing" the web, I've seen many "bad" websites. You know the ones that take forever to download, are hard to navigate, and look like an 8-year-old put it together. So I decided to do something about it, and form my own design group.
 
 ### Distinctive, Intuitive, and Imaginative Designs.
 

@@ -7,7 +7,6 @@
   - [General info](#general-info)
   - [Technologies](#technologies)
   - [Setup](#setup)
-  - [Features](#features)
   - [Status](#status)
   - [Contact](#contact)
 
@@ -26,12 +25,6 @@ If using docker.
 ```
 $ docker-compose up
 ```
-
-## Features
-To-do list:
-* Convert css to scss
-* Update proper to html5
-
 ## Status
 Project is: _in progress_
 

@@ -8,6 +8,7 @@
   - [Technologies](#technologies)
   - [Setup](#setup)
   - [Status](#status)
+  - [Todo](#todo)
   - [Contact](#contact)
 
 ## General info
@@ -27,6 +28,14 @@ $ docker-compose up
 ```
 ## Status
 Project is: _in progress_
+
+## Todo
+Todo List:
+- [x] Responsive redesign
+- [x] Convert css to scss
+- [x] Update logo to svg
+- [x] Update favicon
+- [x] Update site copy
 
 ## Contact
 Created by [@mjorgens](https://github.com/mjorgens) - feel free to contact me!

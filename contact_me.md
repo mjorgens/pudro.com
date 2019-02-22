@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Contact Me
-last_modified_at: 2019-02-20
+last_modified_at: 2019-02-21
 ---
-### Marc Jorgensen <br> Designer and Programmer
+### {{ site.author }} <br> Designer and Programmer
   
-(p) (801) 448-6272  
+(p) {{ site.phone }}  
 (e) [{{site.email}}](mailto:{{site.email}})

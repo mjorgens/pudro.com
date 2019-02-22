@@ -22,6 +22,9 @@ url: "https://pudro.com" # the base hostname & protocol for your site, e.g. http
 author: Marc Jorgensen
 google_analytics: UA-2330698-1
 
+# Custom contact info
+phone: (801) 448-6272
+
 # Build settings
 markdown: kramdown
 theme: minima

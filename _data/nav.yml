@@ -1,7 +1,7 @@
 nav:
 
 - title: Home
-  url: index.html
+  url: /
 - title: Philosophy
   url: philosophy.html
 - title: Services

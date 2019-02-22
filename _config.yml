@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pudro.com" # the base hostname & protocol for your site, e.g. http://example.com
 author: Marc Jorgensen
 google_analytics: UA-2330698-1
+google_site_verification: t0r3ZdGCSzv-0CH3Lq_rrLjRwfpfo7uYej3i08odF-8
 
 # Custom contact info
 phone: (801) 448-6272

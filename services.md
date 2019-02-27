@@ -19,6 +19,8 @@ Need to host your website or get a domain name? Here are some services I recomme
 
 Hosting:
   - [Bluehost](https://www.bluehost.com/track/pudro/){:target="_blank" rel="nofollow"}
+  - [Kinsta](https://kinsta.com?kaid=PWXXIGFMPKGU){:target="_blank" rel="nofollow"}
+  - [Hostiero](https://hostiero.cloud/aff.php?aff=10){:target="_blank" rel="nofollow"}
   
 Domains:
   - [Uniregistry](http://ap.uniregistry.com/click?aid=966666m3){:target="_blank" rel="nofollow"}

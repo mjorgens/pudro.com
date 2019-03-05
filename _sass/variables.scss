@@ -14,6 +14,20 @@ $nav-hover-bg: #cccccc;
 $nav-text-color: #ffffff;
 $nav-text-hover: #999999;
 
+// Form variables
+$form-bg: #f8f8f8;
+$form-button-bg: #999999;
+$form-button-text: #ffffff;
+$form-button-bg-hover: #cccccc;
+$form-button-text-hover: #999999;
+$form-border-color: #cccccc;
+$form-border-focus-color: #555;
+$form-border-focus-size: 3px;
+$form-border-size: 2px;
+$form-border-style: solid;
+$form-border: $form-border-size $form-border-style $form-border-color;
+$form-border-focus: $form-border-focus-size $form-border-style $form-border-focus-color;
+
 // Cap variables
 $cap-height: 2.0rem;
 

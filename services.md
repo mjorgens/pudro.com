@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Services
-last_modified_at: 2019-02-25
+last_modified_at: 2019-03-07
 ---
-### Web Development and Design
+## Web Development and Design
 Here are some services I provide:
 - New website designs and layouts
 - Redesigns of existing websites
@@ -14,7 +14,7 @@ Here are some services I provide:
 - Usability assessments
 - Website audits
   
-### Hosting and Domain
+## Hosting and Domain
 Need to host your website or get a domain name? Here are some services I recommend:
 
 Hosting:

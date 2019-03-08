@@ -16,6 +16,8 @@ The source code for pudro.com using the static generator jekyll.
 
 ## Technologies
 * jekyll ~3.8.5
+* HTML5
+* SCSS
 
 ## Setup
 Make sure jekyll is installed on your system.

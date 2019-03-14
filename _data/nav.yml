@@ -3,8 +3,8 @@ nav:
 - title: Home
   url: /
 - title: Philosophy
-  url: philosophy.html
+  url: /philosophy.html
 - title: Services
-  url: services.html
+  url: /services.html
 - title: Contact Me
-  url: contact_me.html
+  url: /contact_me.html

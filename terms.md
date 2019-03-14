@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Terms of Use
-last_modified_at: 2019-02-21
+description: Terms of use for Pudro Design.
+last_modified_at: 2019-03-14 02:05:08
 ---
 The information contained and accessed on {{ site.url }} (the "Site") is provided for general guidance and is intended to offer the user general information of interest. The application and impact of laws can vary widely based on the specific facts involved. Given the changing nature of laws, rules and regulations, and the inherent hazards of electronic communication, there may be delays, omissions or inaccuracies in information contained in this Site. Accordingly, The information on this Site is provided with the understanding that the authors and publishers are not herein engaged in rendering professional advice or services. As such, it should not be used as a substitute for consultation with professionals. Before making any decision or taking any action, you should consult with {{ site.title }}.
 

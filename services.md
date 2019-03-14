@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Services
-last_modified_at: 2019-03-07
+description: Services offered by Pudro Design.
+last_modified_at: 2019-03-14 02:04:54
 ---
 ## Web Development and Design
 Here are some services I provide:

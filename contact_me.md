@@ -1,7 +1,8 @@
 ---
 layout: contact
 title: Contact Me
-last_modified_at: 2019-03-07 02:54:04
+description: Contact information for Pudro Design.
+last_modified_at: 2019-03-14 01:57:23
 ---
 ## {{ site.author }} <br> Designer and Programmer
   

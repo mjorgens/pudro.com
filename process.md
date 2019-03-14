@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Development Process
-last_modified_at: 2019-03-07
+description: Pudro Design's development process.
+last_modified_at: 2019-03-14 02:03:03
 ---
 ## First Contact
 

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Philosophy
-last_modified_at: 2019-03-07
+description: Pudro Design's philosophy on how to develop websites.
+last_modified_at: 2019-03-14 02:05:44
 ---
 In my years of "surfing" the web, I've seen many "bad" websites. You know the ones that take forever to download, are hard to navigate, and look like an 8-year-old put it together. So I decided to do something about it, and form my own design group.
 

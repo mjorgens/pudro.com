@@ -1,8 +1,8 @@
-# pudro.com
+# pudro.com [![Build Status](https://travis-ci.com/mjorgens/pudro.com.svg?token=QANAUsjNpa6hxxAebZQ2&branch=master)](https://travis-ci.com/mjorgens/pudro.com)
 > This is the source code for the website pudro.com
 
 ## Table of contents
-- [pudro.com](#pudrocom)
+- [pudro.com ![Build Status](https://travis-ci.com/mjorgens/pudro.com)](#pudrocom-build-statushttpstravis-cicommjorgenspudrocom)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Technologies](#technologies)

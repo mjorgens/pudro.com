@@ -2,7 +2,7 @@
 layout: page
 title: Services
 description: Services offered by Pudro Design.
-last_modified_at: 2019-03-14 02:04:54
+last_modified_at: 2019-03-22 04:24:16
 ---
 ## Web Development and Design
 Here are some services I provide:
@@ -26,4 +26,4 @@ Hosting:
 Domains:
   - [Uniregistry](http://ap.uniregistry.com/click?aid=966666m3){:target="_blank" rel="nofollow"}
   
-These are just a fraction of what I offer. [Contact me](contact_me.html) to see what I can do for you.
+These are just a fraction of what I offer. [Contact me](contact.html) to see what I can do for you.

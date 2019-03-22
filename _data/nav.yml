@@ -1,5 +1,4 @@
 nav:
-
 - title: Home
   url: /
 - title: Philosophy
@@ -7,4 +6,4 @@ nav:
 - title: Services
   url: /services.html
 - title: Contact Me
-  url: /contact_me.html
+  url: /contact.html

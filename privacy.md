@@ -2,7 +2,7 @@
 layout: page
 title: Privacy Policy
 description: Privacy policy for Pudro Design.
-last_modified_at: 2019-03-14 02:01:43
+last_modified_at: 2019-03-22 04:23:34
 ---
 {{ site.title }} takes the privacy of its users seriously. We are committed to safeguarding the privacy of our users and clients in accordance with worldwide practices for customer privacy and data protection. {{ site.title }} will not release your personal data to any third parties without your consent or as required by law.
 
@@ -44,4 +44,4 @@ You may not assign, sub-license or otherwise transfer any of your rights under t
 
 ## Contacting {{ site.title }}
 
-If you have any questions about this privacy statement, or the practices of this site, please [contact me](contact_me.html).
+If you have any questions about this privacy statement, or the practices of this site, please [contact me](contact.html).

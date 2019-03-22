@@ -2,7 +2,7 @@
 layout: page
 title: Philosophy
 description: Pudro Design's philosophy on how to develop websites.
-last_modified_at: 2019-03-14 02:05:44
+last_modified_at: 2019-03-22 04:23:06
 ---
 In my years of "surfing" the web, I've seen many "bad" websites. You know the ones that take forever to download, are hard to navigate, and look like an 8-year-old put it together. So I decided to do something about it, and form my own design group.
 
@@ -18,6 +18,6 @@ I am a cost effective solution compared to large design shops that have high ove
 
 Aesthetics, usability, functionality, and page download speed all play an important role in the perception of your online presence. As a consequence, the perception of your company as a whole.
 
-Make sure you have your best foot forward! Get the tools to help your business succeed. [Contact me](contact_me.html) today!
+Make sure you have your best foot forward! Get the tools to help your business succeed. [Contact me](contact.html) today!
 
 [More on my development process &gt;&gt;](process.html)

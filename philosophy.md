@@ -18,6 +18,6 @@ I am a cost effective solution compared to large design shops that have high ove
 
 Aesthetics, usability, functionality, and page download speed all play an important role in the perception of your online presence. As a consequence, the perception of your company as a whole.
 
-Make sure you have your best foot forward! Get the tools to help your business succeed. [Contact me](contact.html) today!
+Make sure you have your best foot forward! Get the tools to help your business succeed. [Contact me]({% link contact.md %}) today!
 
-[More on my development process &gt;&gt;](process.html)
+[More on my development process &gt;&gt;]({% link process.md %})

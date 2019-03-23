@@ -8,4 +8,4 @@ Design, structured engineering, and polished layouts. I specialize in profession
 
 My primary focus is the development of affordable and professional websites that will have a long life. I have worked with many types of clients over the years, from school organizations to individuals to small businesses.  
 
-So, feel like talking websites? Well, that's what I am here for! I want to know what I can do to help you achieve your goals on the Internet. Take a few minutes and check out my [philosophy](philosophy.html). If you like what you see, take another moment or two and [contact me](contact.html). I will be back in touch shortly.  
+So, feel like talking websites? Well, that's what I am here for! I want to know what I can do to help you achieve your goals on the Internet. Take a few minutes and check out my [philosophy]({% link philosophy.md %}). If you like what you see, take another moment or two and [contact me]({% link contact.md %}). I will be back in touch shortly.  

@@ -36,4 +36,4 @@ This is the exciting part - when your site goes "live". But, if you don't announ
 
 Your site will need regular upkeep. It needs to be updated or added to often to ensure that people come back over and over. If you don't, you may loose some people's interest.
 
-[&lt;&lt; Back to my philosophy](philosophy.html)
+[&lt;&lt; Back to my philosophy]({% link philosophy.md %})

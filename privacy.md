@@ -44,4 +44,4 @@ You may not assign, sub-license or otherwise transfer any of your rights under t
 
 ## Contacting {{ site.title }}
 
-If you have any questions about this privacy statement, or the practices of this site, please [contact me](contact.html).
+If you have any questions about this privacy statement, or the practices of this site, please [contact me]({% link contact.md %}).

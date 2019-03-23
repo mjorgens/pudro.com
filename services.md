@@ -26,4 +26,4 @@ Hosting:
 Domains:
   - [Uniregistry](http://ap.uniregistry.com/click?aid=966666m3){:target="_blank" rel="nofollow"}
   
-These are just a fraction of what I offer. [Contact me](contact.html) to see what I can do for you.
+These are just a fraction of what I offer. [Contact me]({% link contact.md %}) to see what I can do for you.

@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/marcjorgensen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pudro.com
+  * I am marcjorgensen (https://keybase.io/marcjorgensen) on keybase.
+  * I have a public key with fingerprint AE8F EFF5 8B83 2D6A 5B36  C952 29D6 F7BA E43A 3F48
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203b2307eabb023e61275b40177cdd83d7ab1e455353bcce3cc4b70429df03e07d0a",
+      "fingerprint": "ae8feff58b832d6a5b36c95229d6f7bae43a3f48",
+      "host": "keybase.io",
+      "key_id": "29d6f7bae43a3f48",
+      "kid": "0101518249a9a7cb19d83cbf0b8c625e9d70adbbab1ee9fc3d7591aa9bb9df1161cb0a",
+      "uid": "e81e29cd97a67065f88c4ca6d6661119",
+      "username": "marcjorgensen"
+    },
+    "merkle_root": {
+      "ctime": 1568608089,
+      "hash_meta": "d120878ddc6e14195019484aef7578fe77402d4b2b2e1fd11fd68dd40c18ebc7",
+      "seqno": 7435287
+    },
+    "revoke": {
+      "sig_ids": [
+        "419e5e9f82bf054793a79a7b61bcd04218be72655b24b13a7ec97eefda6567110f"
+      ]
+    },
+    "service": {
+      "hostname": "pudro.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1568608094,
+  "expire_in": 157680000,
+  "prev": "3e512f2c01cff4aa22869fd98f8c91185c13ea947a69c9ac70714db1cb5b4ce8",
+  "seqno": 44,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMLpAnicbZNtiBVVGMfvui+2K2ZZGqiUjEjpbnLOmfN62cI+xEJvUESltV7PyzN3
+p7t75+7cudvqsrgSvZAmvVJEJSFUHyILtLZEy8VQW3r/YJD4pQxCbHMDl2yFzixK
+EA0Mw5z5P//nf37PnCMLmwsdTcebJ6+89iP8VdPkxHCj0Ltt0aaRwCRuS1AcCSow
+94B+B/WsVIldUAwQJig0JEQCtDGIhMAxEcxQhIWwzsnQCW0wUMZCFhprIbSWGoEo
+US5CISDhkA66giiuliGtpXE187YaZARRxKSRIXFcMxNyqxjxRTwSRgMNdRhR6Qv7
+knpe4cMZXYd1ceLX/EtpLt7/6C/nRphhSajSSgtrsPJRrYmQkZYTBsoJpJ0xeXZQ
+kfXbYAprrYzxuTHm2Jq53I05O5AYiLJOCc0F4iyS0lKrueOcY4xVLqxDWtUD4NUD
+OrWPJmkZqnWoBqNdwQCklX4opUmS5YRtFuc6zLjkSCKp/C51va80AJn25c4zl0I6
+ZzlgihVDWFFJNUSCCc9NCIqIo4YYAjhy2N/cqymyWIKxwoepw2A1CYqChoxI4ROk
+MJRUIG9ej8ueXT0oPhx4b/AoIkk8GEaFCrXwtAzHxjo/QSwNCMIZM4Qa7D+CVQIg
+cpozLjBGUdA7mjdLh2I7Z54P6xKEWsOlyTqbDPg4tTTJEpv0++W+LKvVizmUbEst
+1z0GpnTJoWTiqvP/ia8YgrQeJ1UPySv/w0vRrgCGa3EKpThXMMEl8lfeB4a8ZQgM
+k4hYhG0UUa0JkVxFTslIWoWxZBaHoBX1w1RWaSuQwNQZP3L/Y1uQ/wKkvlWmy97T
+Y6vqrJFCMDrx+SMthaaOQlvrvPwAFTrar7p8rFbcP3924Q5UONFaeXLr9pZ9S0/3
+nh0Z/HHJbPvspnPLNuz46cOZJ/7c/nEt+b5728yZ10z3DS3te8bX7vuko/WH/RfW
+7lw88fYzrx9+Z2rjy6eur/QsvtuO/7Lys66Ny3Z/PTa1+0zljkWrvrtnzaHhY8MH
+Hn/lJdI//e41jftabl2w5K3usWLng78dvfDQCnLu/PGemwefe6pw3d8HO0+Fk7vI
+6hf3zGyY1/e0ObK5+itt3vvtLWPtFwePfnB2Zv/45OoF03vfPLj+1emLy18on2h0
+XX2F/iOe2nzg9p/bvmw+uf7Q+I1Tn76XNd9V3Lp84ovfV71/7I35NyXl29bcu3Nm
+V+P86b+iB74Jnh979qS8c2VP59LDbfIf+o+BTg==
+=S5/3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/marcjorgensen
+
+==================================================================

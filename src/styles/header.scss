@@ -1,0 +1,35 @@
+@import 'variables';
+
+// Classes
+.brand {
+  display: flex;
+  align-items: center;
+  color: $text-color;
+  font-size: 2em;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-left: $cap-height;
+  font-weight: bold;
+
+  img {
+    width: 3rem;
+    height: 3rem;
+    margin-right: 0.5rem;
+  }
+}
+
+.top {
+  background-color: $brand-color;
+  height: $cap-height;
+  border-radius: $cap-height $cap-height 0 0;
+  border: $border;
+  border-bottom: none;
+}
+
+// Media break points
+@media only screen and (min-width: $small) {
+}
+
+@media only screen and (min-width: $large) {
+}
+

@@ -1,0 +1,39 @@
+@import 'variables';
+
+// Classes
+.bottom1 {
+  background-color: $nav-bg;
+  height: $cap-height;
+  border: $border;
+}
+
+.bottom2 {
+  background-color: $brand-color;
+  height: $cap-height;
+  border-radius: 0 0 $cap-height $cap-height;
+  border: $border;
+  border-top: none;
+}
+
+.copyright {
+  font-size: 0.9em;
+  text-align: right;
+  margin-right: $cap-height;
+
+  div {
+    float: none;
+  }
+}
+
+// Media break points
+@media only screen and (min-width: $small) {
+}
+
+@media only screen and (min-width: $large) {
+  .copyright {
+    div {
+      display: inline;
+      margin-left: .25rem;
+    }
+  }
+}

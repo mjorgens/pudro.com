@@ -1,0 +1,65 @@
+@import "variables";
+
+// Nav variables
+$nav-bg: #999999;
+$nav-hover-bg: #cccccc;
+$nav-text-color: #ffffff;
+$nav-text-hover: #999999;
+
+// Tags
+nav {
+  background-color: $nav-bg;
+  font-size: 1.1em;
+  border: $border;
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+
+    li {
+      float: none;
+      border-bottom: $border;
+
+      &:last-child {
+        border-bottom: none;
+      }
+
+      a {
+        display: block;
+        line-height: $cap-height;
+        text-align: center;
+        padding-right: 0.5rem;
+        padding-left: 0.5rem;
+        color: $nav-text-color;
+        text-decoration: none;
+
+        &:visited {
+          color: $nav-text-color;
+        }
+
+        &:hover {
+          background-color: $nav-hover-bg;
+          color: $nav-text-hover;
+        }
+      }
+    }
+  }
+}
+
+// Media break points
+@media only screen and (min-width: $small) {
+  nav {
+    ul {
+      li {
+        float: left;
+        border-right: $border;
+        border-bottom: none;
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: $large) {
+}

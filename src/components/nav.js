@@ -22,6 +22,10 @@ export default function Nav() {
         `,
     )
 
+    return (<PureNav data={data} />)
+}
+
+export function PureNav({ data }) {
     return (
         <nav>
             <ul>

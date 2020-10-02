@@ -17,6 +17,10 @@ export default function Header() {
         `,
     )
 
+    return (<PureHeader data={data}/>)
+}
+
+export function PureHeader ({data}){
     return (
         <header>
             <div className="brand">

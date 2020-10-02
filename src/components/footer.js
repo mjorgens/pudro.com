@@ -16,6 +16,10 @@ export default function Footer() {
         `,
     )
 
+    return (<PureFooter data={data} />)
+}
+
+export function PureFooter({ data }) {
     return (
         <>
             <div className="bottom1" />

@@ -9,36 +9,32 @@
   - [Technologies](#technologies)
   - [Setup](#setup)
   - [Status](#status)
-  - [Todo](#todo)
   - [Contact](#contact)
 
 ## General info
-The source code for pudro.com using the static generator jekyll.
+The source code for pudro.com using the static generator Gatsby.
 
 ## Technologies
-* jekyll ~3.8.5
-* HTML5
+* Gatsby
+* React
 * SCSS
 
 ## Setup
-Make sure jekyll is installed on your system.
+Install Gatsby
+```shell script
+npm install -g gatsby-cli
 ```
-$ bundle exec jekyll build
+Install dependencies
+```shell script
+npm install
 ```
-If using docker.
+Build project
+```shell script
+npm run build
 ```
-$ docker-compose up
-```
+
 ## Status
 Project is: _in progress_
-
-## Todo
-Todo List:
-- [x] Responsive redesign
-- [x] Convert css to scss
-- [x] Update logo to svg
-- [x] Update favicon
-- [x] Update site copy
 
 ## Contact
 Created by [@mjorgens](https://github.com/mjorgens) - feel free to contact me!

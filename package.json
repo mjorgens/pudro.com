@@ -17,7 +17,7 @@
     "@mdx-js/react": "^1.6.18",
     "gatsby": "^2.24.67",
     "gatsby-plugin-gtag": "^1.0.13",
-    "gatsby-plugin-mdx": "^1.2.43",
+    "gatsby-plugin-mdx": "^1.7.0",
     "gatsby-plugin-next-seo": "^1.6.1",
     "gatsby-plugin-robots-txt": "^1.5.3",
     "gatsby-plugin-sass": "^2.3.14",

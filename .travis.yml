@@ -4,13 +4,13 @@ node_js:
   - node
 
 before_script:
-  - npm install -g gatsby-cli
+  - yarn global add gatsby-cli
 
 install:
-  - npm install
+  - yarn install
 
 script:
-  - npm run build
+  - yarn run build
 
 deploy:
   provider: pages
@@ -22,7 +22,7 @@ deploy:
 
 sudo: false # route your build to the container-based infrastructure for a faster build
 
-cache: npm # caching bundler gem packages will speed up build
+cache: npm # caching packages will speed up build
 
 # Optional: disable email notifications about the outcome of your builds
 notifications:

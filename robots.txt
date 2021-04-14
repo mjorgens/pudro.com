@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://pudro.com/sitemap.xml
+Host: https://pudro.com

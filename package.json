@@ -30,7 +30,7 @@
     "react-helmet-async": "^1.2.3"
   },
   "devDependencies": {
-    "prettier": "2.6.0"
+    "prettier": "2.6.1"
   },
   "repository": {
     "type": "git",

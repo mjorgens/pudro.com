@@ -1188,14 +1188,7 @@
     core-js-pure "^3.0.0"
     regenerator-runtime "^0.13.4"
 
-"@babel/runtime@^7.10.0", "@babel/runtime@^7.10.2", "@babel/runtime@^7.10.3", "@babel/runtime@^7.12.5", "@babel/runtime@^7.15.4", "@babel/runtime@^7.16.7", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4":
-  version "7.16.7"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.16.7.tgz#03ff99f64106588c9c403c6ecb8c3bafbbdff1fa"
-  integrity sha512-9E9FJowqAsytyOY6LG+1KuueckRL+aQW+mKvXRXnuFGyRAyepJPmEo9vgMfXUA6O9u3IeEdv9MAkppFcaQwogQ==
-  dependencies:
-    regenerator-runtime "^0.13.4"
-
-"@babel/runtime@^7.16.3", "@babel/runtime@^7.9.2":
+"@babel/runtime@^7.10.0", "@babel/runtime@^7.10.2", "@babel/runtime@^7.10.3", "@babel/runtime@^7.12.5", "@babel/runtime@^7.15.4", "@babel/runtime@^7.16.3", "@babel/runtime@^7.16.7", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4", "@babel/runtime@^7.9.2":
   version "7.17.9"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.17.9.tgz#d19fbf802d01a8cb6cf053a64e472d42c434ba72"
   integrity sha512-lSiBBvodq29uShpWGNbgFdKYNiFDo5/HIYsaCEY9ff4sb10x9jizo2+pRrSyF4jKZCXqgzuqBOQKbUm90gQwJg==
@@ -6078,27 +6071,6 @@ gatsby-cli@^4.13.0:
     yoga-layout-prebuilt "^1.10.0"
     yurnalist "^2.1.0"
 
-gatsby-core-utils@^3.12.1:
-  version "3.12.1"
-  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-3.12.1.tgz#590ec08de7168b086b7d49128732b9ada95b985f"
-  integrity sha512-jBG1MfR6t2MZNIl8LQ3Cwc92F6uFNcEC091IK+qKVy9FNT0+WzcKQ6Olip6u1NSvCatfrg1FqrH0K78a6lmnLQ==
-  dependencies:
-    "@babel/runtime" "^7.15.4"
-    ci-info "2.0.0"
-    configstore "^5.0.1"
-    fastq "^1.13.0"
-    file-type "^16.5.3"
-    fs-extra "^10.0.0"
-    got "^11.8.3"
-    import-from "^4.0.0"
-    lmdb "^2.2.6"
-    lock "^1.1.0"
-    node-object-hash "^2.3.10"
-    proper-lockfile "^4.1.2"
-    resolve-from "^5.0.0"
-    tmp "^0.2.1"
-    xdg-basedir "^4.0.0"
-
 gatsby-core-utils@^3.13.0, gatsby-core-utils@^3.8.2:
   version "3.13.0"
   resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-3.13.0.tgz#b6137bbd285e41a6811ccd33fcd5d5f6a5a17aef"
@@ -6331,16 +6303,16 @@ gatsby-sharp@^0.7.0:
     "@types/sharp" "^0.30.0"
     sharp "^0.30.3"
 
-gatsby-source-filesystem@^4.12.1:
-  version "4.12.1"
-  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-4.12.1.tgz#86f45cc047b0b9ca06b5e4ef5c48e69fa3ec2206"
-  integrity sha512-lbtKa7oR2Q+8Qa8gZych/JaRBeoIW/dk4rfy13DOrSgUJK9gZFkpLuFQ471Z0JiHitDPswienBW60HjYvymOCw==
+gatsby-source-filesystem@^4.13.0:
+  version "4.13.0"
+  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-4.13.0.tgz#b42bffeaa7d157988d01c95fcf2feed60f6f0001"
+  integrity sha512-PRr/6tWY5BtnfVv67JSWvQTorfWteWBxzbcs7DvgoP7zHfIWR1tH6saONwuPbo9tCwQ73ZlLYz1LgGdOfJGPzA==
   dependencies:
     "@babel/runtime" "^7.15.4"
     chokidar "^3.5.2"
     file-type "^16.5.3"
     fs-extra "^10.0.0"
-    gatsby-core-utils "^3.12.1"
+    gatsby-core-utils "^3.13.0"
     got "^9.6.0"
     md5-file "^5.0.0"
     mime "^2.5.2"
@@ -12932,15 +12904,10 @@ xss@^1.0.6:
     commander "^2.20.3"
     cssfilter "0.0.10"
 
-xstate@^4.26.0:
+xstate@^4.26.0, xstate@^4.26.1:
   version "4.31.0"
   resolved "https://registry.yarnpkg.com/xstate/-/xstate-4.31.0.tgz#039cf6f865dd9e104012eb76a14df757c988ec58"
   integrity sha512-UK5m6OqUsTlPuKWkfRR5cR9/Yt7sysFyEg+PVIbEH9mwHSf9zuCvWO7rRvhBq7T+3pEXLKTEMfaqmLxl9Ob1pw==
-
-xstate@^4.26.1:
-  version "4.27.0"
-  resolved "https://registry.yarnpkg.com/xstate/-/xstate-4.27.0.tgz#f3c918ac4229bd5e6dec2231e991ba55c6bfa559"
-  integrity sha512-ohOwDM9tViC/zSSmY9261CHblDPqiaAk5vyjVbi69uJv9fGWMzlm0VDQwM2OvC61GKfXVBeuWSMkL7LPUsTpfA==
 
 xtend@^4.0.0, xtend@^4.0.1:
   version "4.0.2"

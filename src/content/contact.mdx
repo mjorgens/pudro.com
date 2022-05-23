@@ -10,11 +10,11 @@ Designer and Programmer</h2>
 (p) {props.phone}<br/>
 (e) <a href='mailto:{props.email}'>{props.email}</a>
 
-<form className="form-horizontal" action="https://formspree.io/{props.email}" method="POST">
-  <input type="text" name="name" placeholder="Your Name"/>
-  <input type="email" name="_replyto" placeholder="Your Email"/>
-  <textarea className="form-control" id="textarea" name="message" placeholder="Your Message"/>
-  <input type="submit" value="Send"/>
-  <input type="text" name="_gotcha" style="display:none"/>
-  <input type="hidden" name="_subject" value="Contact Form Submission"/>
+<form action="https://api.sheetmonkey.io/form/JzAMAFGTycqwUMc3CKv2c" method="post">
+    <input type="text" name="Name" placeholder="Your Name" required/>
+    <input type="email" name="Email" placeholder="Your Email" required/>
+    <textarea className='form-control' id='textarea' name='Message' placeholder='Your Message'/>
+    <input type="hidden" name="Created" value="x-sheetmonkey-current-date-time" />
+    <input type="hidden" name="x-sheetmonkey-redirect"  value="https://pudro.com/success/" />
+    <input type="submit" value="Submit" />
 </form>

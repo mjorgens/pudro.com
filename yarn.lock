@@ -6114,10 +6114,10 @@ gatsby-plugin-gtag@^1.0.13:
   resolved "https://registry.yarnpkg.com/gatsby-plugin-gtag/-/gatsby-plugin-gtag-1.0.13.tgz#ffa08a728ba1cfe33090e52764d014a025a5d35a"
   integrity sha512-Oul6O67klajrEjkkF1diD228SmyUWsAwTq/1tYq41vBwmyNiPk4dhk8K93rrNQ5d5zesSv+awBeGBa503tQqGw==
 
-gatsby-plugin-mdx@^3.15.0:
-  version "3.15.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx/-/gatsby-plugin-mdx-3.15.0.tgz#392d7a51c185730e5d8c84c744c00aedb0b89ea4"
-  integrity sha512-HlMIEWaOenT0l6JyrPuOgxWQrINuSRjc9umHMhGsG2asBa/se83Zw45ekUIcaaErNMxqkzj0Vky6yAkFZq8HfA==
+gatsby-plugin-mdx@^3.15.1:
+  version "3.15.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx/-/gatsby-plugin-mdx-3.15.1.tgz#2656ebffe809e00ebb68a0c6fd86b36d9fa251f6"
+  integrity sha512-StCY3c3VJ3ba0djNjQKKUACgj1hW7dozEIiTXYvOVwNzD/jczhFiUdgv4Jxh2G1VTONhE89aDIl9LCDQl985nA==
   dependencies:
     "@babel/core" "^7.15.5"
     "@babel/generator" "^7.15.4"

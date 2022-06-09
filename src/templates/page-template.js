@@ -25,7 +25,7 @@ export default function PageTemplate({ data }) {
                 openGraph={{
                     url: siteUrl + slug,
                     description: (description ? description : siteDescription),
-                    title: (title ? title + siteTitle : siteTitle),
+                    title: (title ? title + ' ' + siteTitle : siteTitle),
                     site_name: siteTitle,
                 }} />
             <Layout>

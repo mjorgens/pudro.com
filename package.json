@@ -20,7 +20,7 @@
     "gatsby-plugin-mdx": "^3.16.1",
     "gatsby-plugin-next-seo": "^1.10.0",
     "gatsby-plugin-robots-txt": "^1.7.1",
-    "gatsby-plugin-sass": "^5.16.0",
+    "gatsby-plugin-sass": "^5.17.0",
     "gatsby-plugin-sitemap": "^5.16.0",
     "gatsby-source-filesystem": "^4.16.0",
     "sass": "^1.52.0",

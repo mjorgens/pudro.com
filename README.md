@@ -1,5 +1,5 @@
 # pudro.com
- [![Build Status](https://travis-ci.com/mjorgens/pudro.com.svg?token=QANAUsjNpa6hxxAebZQ2&branch=master)](https://travis-ci.com/mjorgens/pudro.com)
+[![Deployment](https://github.com/mjorgens/pudro.com/actions/workflows/deployment.yml/badge.svg)](https://github.com/mjorgens/pudro.com/actions/workflows/deployment.yml)
 > This is the source code for the website pudro.com
 
 ## Table of contents

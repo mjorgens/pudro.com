@@ -22,7 +22,7 @@
     "gatsby-plugin-robots-txt": "^1.7.1",
     "gatsby-plugin-sass": "^5.20.0",
     "gatsby-plugin-sitemap": "^5.20.0",
-    "gatsby-source-filesystem": "^4.20.0",
+    "gatsby-source-filesystem": "^4.21.1",
     "sass": "^1.54.4",
     "normalize.css": "^8.0.1",
     "react": "^17.0.2",

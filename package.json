@@ -21,7 +21,7 @@
     "gatsby-plugin-next-seo": "^1.10.0",
     "gatsby-plugin-robots-txt": "^1.7.1",
     "gatsby-plugin-sass": "^5.23.0",
-    "gatsby-plugin-sitemap": "^5.22.0",
+    "gatsby-plugin-sitemap": "^5.23.0",
     "gatsby-source-filesystem": "^4.22.0",
     "sass": "^1.54.9",
     "normalize.css": "^8.0.1",

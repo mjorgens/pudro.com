@@ -23,7 +23,7 @@
     "gatsby-plugin-sass": "^5.25.0",
     "gatsby-plugin-sitemap": "^5.25.0",
     "gatsby-source-filesystem": "^4.25.0",
-    "sass": "^1.66.1",
+    "sass": "^1.69.4",
     "normalize.css": "^8.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
